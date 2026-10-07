@@ -62,5 +62,4 @@ Retail sales analysis covering regional performance, product categories, and top
 ## 📫 Let's Connect
 
 - LinkedIn: (www.linkedin.com/in/bilal-ahmad-analyst)
-- Email: bilaltodata@gmail.com
-- 📂 **Portfolio:** [View my full portfolio](https://drive.google.com/file/d/1RNVmy-f3CAQgYz5WwgSwme2KhdWrytEr/view?usp=sharing)
+- Email: bilaltoanalyst@gmail.com
