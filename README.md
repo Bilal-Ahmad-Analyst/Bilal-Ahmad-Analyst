@@ -113,7 +113,6 @@ Virtual University of Pakistan
 
 * **LinkedIn:** [Bilal Ahmad](https://www.linkedin.com/in/bilal-ahmad-analyst)
 * **Email:** [bilaltoanalyst@gmail.com](mailto:bilaltoanalyst@gmail.com)
-* **GitHub:** [Bilal Ahmad](https://github.com/Bilal-Ahmad0301)
 
 ---
 
