@@ -48,7 +48,7 @@ Additional responsibilities:
 
 *Portfolio projects use anonymized data where applicable to protect confidential business information.*
 
-**Business Analyst — Vital**
+**Business Analyst — Vigital**
 *August 2025 – March 2026*
 
 * Analyzed business requirements and identified opportunities for process improvement.
