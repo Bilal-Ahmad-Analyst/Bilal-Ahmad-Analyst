@@ -57,7 +57,7 @@ Additional responsibilities:
 * Coordinated with stakeholders to clarify requirements and resolve issues.
 
 **Business Intelligence — Cybil Tech**
-*June 2023 – July 2025*
+*June 2024 – July 2025*
 
 * Developed Power BI dashboards to track business performance and KPIs.
 * Cleaned and transformed datasets using SQL, Excel, and Power Query.
