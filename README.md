@@ -111,6 +111,7 @@ Virtual University of Pakistan
 
 ## 📫 Let's Connect
 
+* **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
 * **LinkedIn:** [Bilal Ahmad](https://www.linkedin.com/in/bilal-ahmad-analyst)
 * **Email:** [bilaltoanalyst@gmail.com](mailto:bilaltoanalyst@gmail.com)
 
